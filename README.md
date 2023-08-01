@@ -1,1 +1,3 @@
-# Linear_Algebra
+# linear_algebra
+---
+##chapter 1
